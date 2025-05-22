@@ -1,0 +1,11 @@
+{
+  "name": "stime_projet",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node test.js",
+    "sonar": "sonar-scanner"
+  },
+  "devDependencies": {
+    "sonar-scanner": "^3.1.0"
+  }
+}
